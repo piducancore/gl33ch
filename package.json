@@ -1,0 +1,12 @@
+{
+  "name": "@piducancore/gl33ch",
+  "version": "0.0.1",
+  "main": "index.js",
+  "bin": "./cli.js",
+  "repository": "https://github.com/piducancore/gl33ch",
+  "author": "@piducancore",
+  "license": "MIT",
+  "dependencies": {
+    "jimp": "^0.12.1"
+  }
+}
